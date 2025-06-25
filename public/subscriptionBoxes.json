@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Home Box",
+    "thumbnail": "https://i.ibb.co.com/KcwsBJZ4/smart-home-3964427-1920.jpg",
+    "banner": "https://i.ibb.co.com/KcwsBJZ4/smart-home-3964427-1920.jpg",
+    "frequency": "Yearly",
+    "price": 199.99,
+    "description": "Transform your home into a smart home with curated smart devices, home automation products, and IoT gadgets.",
+    "tech_category": "Smart Home",
+    "features": [
+      "Smart Home Devices",
+      "Home Automation Tools",
+      "Cutting-edge IoT Gadgets"
+    ],
+    "subscription_benefits": [
+      "Discount on Future Smart Home Purchases",
+      "Exclusive Smart Home Tutorials",
+      "Early Access to Product Releases"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 315
+  },
+  {
+    "id": 2,
+    "name": "Drone Pro",
+    "thumbnail": "https://i.ibb.co.com/4wbrsH6T/drone-1859185-1920.jpg",
+    "banner": "https://i.ibb.co.com/4wbrsH6T/drone-1859185-1920.jpg",
+    "frequency": "Monthly",
+    "price": 149.99,
+    "description": "High-performance drone with 4K camera and autonomous flight modes.",
+    "tech_category": "Drones",
+    "features": [
+      "4K Camera",
+      "GPS Tracking",
+      "30-Minute Flight Time"
+    ],
+    "subscription_benefits": [
+      "Free Propeller Replacements",
+      "Advanced Flight Tutorials",
+      "Beta Firmware Access"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 278
+  },
+  {
+    "id": 3,
+    "name": "VR Explorer Kit",
+    "thumbnail": "https://i.ibb.co.com/Y4kt2hZc/virtual-reality-8733430-1280.jpg",
+    "banner": "https://i.ibb.co.com/Y4kt2hZc/virtual-reality-8733430-1280.jpg",
+    "frequency": "Quarterly",
+    "price": 299.99,
+    "description": "Immerse yourself in virtual reality with premium headsets and curated experiences.",
+    "tech_category": "Virtual Reality",
+    "features": [
+      "4K OLED Display",
+      "360-Degree Tracking",
+      "100+ VR Games"
+    ],
+    "subscription_benefits": [
+      "Monthly VR Content Drops",
+      "Hardware Upgrades",
+      "Developer Q&A Sessions"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 412
+  },
+  {
+    "id": 4,
+    "name": "Fitness Tracker Pro",
+    "thumbnail": "https://i.ibb.co.com/Y4Sc0NKm/man-2604149-1280.jpg",
+    "banner": "https://i.ibb.co.com/Y4Sc0NKm/man-2604149-1280.jpg",
+    "frequency": "Yearly",
+    "price": 89.99,
+    "description": "Advanced health monitoring with heart-rate tracking and sleep analysis.",
+    "tech_category": "Wearables",
+    "features": [
+      "24/7 Heart Rate Monitor",
+      "Waterproof Design",
+      "30-Day Battery"
+    ],
+    "subscription_benefits": [
+      "Personalized Workout Plans",
+      "Health Reports",
+      "Priority Customer Support"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 189
+  },
+  {
+    "id": 5,
+    "name": "Gaming PC Bundle",
+    "thumbnail": "https://i.ibb.co.com/BV4QdZ3n/child-3264751-1280.jpg",
+    "banner": "https://i.ibb.co.com/BV4QdZ3n/child-3264751-1280.jpg",
+    "frequency": "One-Time",
+    "price": 1299.99,
+    "description": "Ultimate gaming setup with RGB lighting and top-tier components.",
+    "tech_category": "Gaming",
+    "features": [
+      "RTX 4080 GPU",
+      "32GB DDR5 RAM",
+      "1TB NVMe SSD"
+    ],
+    "subscription_benefits": [
+      "Free Game Keys Monthly",
+      "Hardware Discounts",
+      "Live Tech Support"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 567
+  },
+  {
+    "id": 6,
+    "name": "Wireless Earbuds Pro",
+    "thumbnail": "https://i.ibb.co.com/cX8Zqqg8/headphones-3683983-1280.jpg",
+    "banner": "https://i.ibb.co.com/cX8Zqqg8/headphones-3683983-1280.jpg",
+    "frequency": "Monthly",
+    "price": 129.99,
+    "description": "Premium noise-canceling earbuds with 24-hour battery life.",
+    "tech_category": "Audio",
+    "features": [
+      "Active Noise Cancellation",
+      "Wireless Charging",
+      "IPX7 Waterproof"
+    ],
+    "subscription_benefits": [
+      "Free Ear Tip Replacements",
+      "Exclusive Music Playlists",
+      "Firmware Beta Access"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 432
+  },
+  {
+    "id": 7,
+    "name": "Robot Vacuum X3",
+    "thumbnail": "https://i.ibb.co.com/NgCNCsD3/mars-67522-1280.jpg",
+    "banner": "https://i.ibb.co.com/NgCNCsD3/mars-67522-1280.jpg",
+    "frequency": "Yearly",
+    "price": 349.99,
+    "description": "Self-emptying robot vacuum with laser mapping and voice control.",
+    "tech_category": "Home Appliances",
+    "features": [
+      "Laser Navigation",
+      "Auto-Empty Dock",
+      "Wi-Fi Connectivity"
+    ],
+    "subscription_benefits": [
+      "Discount on Filters",
+      "Cleaning Schedule Analytics",
+      "VIP Support"
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 204
+  },
+  {
+    "id": 8,
+    "name": "4K Action Camera",
+    "thumbnail": "https://i.ibb.co.com/8nQdjMH8/canon-5158887-1280.jpg",
+    "banner": "https://i.ibb.co.com/8nQdjMH8/canon-5158887-1280.jpg",
+    "frequency": "Quarterly",
+    "price": 249.99,
+    "description": "Rugged camera for extreme sports with 4K/60fps video recording.",
+    "tech_category": "Cameras",
+    "features": [
+      "4K Video",
+      "Image Stabilization",
+      "Underwater Housing"
+    ],
+    "subscription_benefits": [
+      "Cloud Storage",
+      "Editing Software License",
+      "Accessory Discounts"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 156
+  },
+  {
+    "id": 9,
+    "name": "E-Reader Elite",
+    "thumbnail": "https://i.ibb.co.com/ymjWkXVC/young-lady-1176120-1280.jpg",
+    "banner": "https://i.ibb.co.com/ymjWkXVC/young-lady-1176120-1280.jpg",
+    "frequency": "Monthly",
+    "price": 179.99,
+    "description": "Paper-like display with adjustable warm light and waterproof design.",
+    "tech_category": "E-Readers",
+    "features": [
+      "300 PPI Display",
+      "32GB Storage",
+      "Weeks-Long Battery"
+    ],
+    "subscription_benefits": [
+      "Free eBook Monthly",
+      "Early Access to Sales",
+      "Device Trade-In Program"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 89
+  },
+  {
+    "id": 10,
+    "name": "Security Camera Kit",
+    "thumbnail": "https://i.ibb.co.com/rR87JBC1/cctv-1144371-1280.jpg",
+    "banner": "https://i.ibb.co.com/rR87JBC1/cctv-1144371-1280.jpg",
+    "frequency": "Yearly",
+    "price": 299.99,
+    "description": "24/7 home surveillance with AI-powered motion detection.",
+    "tech_category": "Security",
+    "features": [
+      "1080p Night Vision",
+      "Two-Way Audio",
+      "Cloud Storage"
+    ],
+    "subscription_benefits": [
+      "Extended Warranty",
+      "24/7 Monitoring Support",
+      "Hardware Upgrades"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 341
+  },
+  {
+    "id": 11,
+    "name": "Solar Power Bank",
+    "thumbnail": "https://i.ibb.co.com/jZwYf1qn/photovoltaic-system-2742302-1280.jpg",
+    "banner": "https://i.ibb.co.com/jZwYf1qn/photovoltaic-system-2742302-1280.jpg",
+    "frequency": "One-Time",
+    "price": 79.99,
+    "description": "Portable solar charger with 20,000mAh capacity for outdoor adventures.",
+    "tech_category": "Energy",
+    "features": [
+      "Solar Panels",
+      "Waterproof Design",
+      "Dual USB Ports"
+    ],
+    "subscription_benefits": [
+      "Free Replacement Cables",
+      "Exclusive Outdoor Guides",
+      "Lifetime Warranty"
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 127
+  },
+  {
+    "id": 12,
+    "name": "Smart Mirror",
+    "thumbnail": "https://i.ibb.co.com/GQYJSbcW/drop-1004250-1280.jpg",
+    "banner": "https://i.ibb.co.com/GQYJSbcW/drop-1004250-1280.jpg",
+    "frequency": "Quarterly",
+    "price": 599.99,
+    "description": "Voice-controlled mirror with built-in Alexa and fitness tracking.",
+    "tech_category": "Smart Home",
+    "features": [
+      "Touchscreen Display",
+      "Health Metrics Tracking",
+      "Customizable Lighting"
+    ],
+    "subscription_benefits": [
+      "Personalized Workouts",
+      "Skin Care Analytics",
+      "Exclusive Mirror Apps"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 68
+  }
+]
