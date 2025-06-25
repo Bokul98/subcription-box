@@ -1,12 +1,87 @@
-# React + Vite
+# Law Firm Booking Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Law Firm booking and information website built with **React**, **TailwindCSS**, and **Vite**. The project is designed to be fast, scalable, and SEO-friendly, providing a smooth user experience for potential clients seeking legal services.
 
-Currently, two official plugins are available:
+🚀 **Live Preview:** [https://law-firm-booking.netlify.app](https://law-firm-booking.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Fully Responsive Design
+✅ Modern UI with TailwindCSS
+✅ Smooth Routing with React Router
+✅ Reusable Components
+✅ SEO Optimized with `react-helmet-async`
+✅ Interactive Charts using Recharts
+✅ Stylish Notifications using `react-toastify`
+✅ CountUp Animations
+✅ Styled with `styled-components` for flexibility
+✅ Deployed on Netlify
+
+---
+
+## 🛠️ Tech Stack
+
+* **React 19**
+* **Vite**
+* **Tailwind CSS**
+* **Styled Components**
+* **React Router**
+* **Recharts**
+* **React Icons**
+* **React Toastify**
+* **React Helmet Async**
+* **ESLint + Prettier Setup**
+
+---
+
+## 📂 Project Setup
+
+```bash
+# Clone the Repository
+git clone https://github.com/your-username/your-repository-name.git
+cd your-repository-name
+
+# Install Dependencies
+npm install
+
+# Run in Development Mode
+npm run dev
+
+# Build for Production
+npm run build
+
+# Preview Production Build Locally
+npm run preview
+```
+
+---
+
+## 📁 Folder Structure
+
+```
+├── public/          // Static files
+├── src/             
+│   ├── assets/      // Images, icons, etc.
+│   ├── components/  // Reusable components
+│   ├── pages/       // Pages for routing
+│   ├── App.jsx      // Main App component
+│   └── main.jsx     // Application entry point
+├── package.json     
+├── tailwind.config.js  
+├── vite.config.js   
+└── README.md        
+```
+
+---
+
+## 🖥️ Live Demo
+
+[https://law-firm-booking.netlify.app](https://law-firm-booking.netlify.app)
+
+---
+
+## 📧 Contact
+
+For any queries or collaboration opportunities, feel free to reach out.
