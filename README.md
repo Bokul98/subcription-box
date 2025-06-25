@@ -1,87 +1,79 @@
-# Law Firm Booking Website
+# 🎁 Subscription Boxes
 
-A modern, responsive Law Firm booking and information website built with **React**, **TailwindCSS**, and **Vite**. The project is designed to be fast, scalable, and SEO-friendly, providing a smooth user experience for potential clients seeking legal services.
+Live Demo 👉 [https://subscription-boxes.netlify.app/](https://subscription-boxes.netlify.app/)
 
-🚀 **Live Preview:** [https://law-firm-booking.netlify.app](https://law-firm-booking.netlify.app)
-
----
-
-## ✨ Features
-
-✅ Fully Responsive Design
-✅ Modern UI with TailwindCSS
-✅ Smooth Routing with React Router
-✅ Reusable Components
-✅ SEO Optimized with `react-helmet-async`
-✅ Interactive Charts using Recharts
-✅ Stylish Notifications using `react-toastify`
-✅ CountUp Animations
-✅ Styled with `styled-components` for flexibility
-✅ Deployed on Netlify
+A modern, responsive subscription box landing page built with **React**, **Tailwind CSS**, and **Vite**. Smooth animations, Firebase integration, and reusable components ensure a fast, engaging user experience.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-* **React 19**
-* **Vite**
-* **Tailwind CSS**
-* **Styled Components**
-* **React Router**
-* **Recharts**
-* **React Icons**
-* **React Toastify**
-* **React Helmet Async**
-* **ESLint + Prettier Setup**
+- **React 19**
+- **Tailwind CSS 4**
+- **Vite**
+- **Firebase**
+- **React Router DOM 7**
+- **DaisyUI**
+- **AOS (Animate On Scroll)**
+- **Lucide React Icons**
+- **React Icons**
+- **Swiper Slider**
+- **React Hot Toast**
 
 ---
 
-## 📂 Project Setup
+## 📦 Installed Packages
+
+### Dependencies
+
+| Package              | Version  |
+|----------------------|----------|
+| @tailwindcss/vite    | ^4.1.5   |
+| aos                  | ^2.3.4   |
+| firebase             | ^11.7.0  |
+| lucide-react         | ^0.508.0 |
+| react                | ^19.1.0  |
+| react-dom            | ^19.1.0  |
+| react-hot-toast      | ^2.5.2   |
+| react-icons          | ^5.5.0   |
+| react-router-dom     | ^7.5.3   |
+| swiper               | ^11.2.6  |
+| tailwindcss          | ^4.1.5   |
+
+### Dev Dependencies
+
+| Package                   | Version  |
+|---------------------------|----------|
+| @eslint/js                | ^9.25.0  |
+| @types/react              | ^19.1.2  |
+| @types/react-dom          | ^19.1.2  |
+| @vitejs/plugin-react      | ^4.4.1   |
+| daisyui                   | ^5.0.35  |
+| eslint                    | ^9.25.0  |
+| eslint-plugin-react-hooks | ^5.2.0   |
+| eslint-plugin-react-refresh | ^0.4.19 |
+| globals                   | ^16.0.0  |
+| vite                      | ^6.3.5   |
+
+---
+
+## 🌟 Key Features
+
+✅ Modern, responsive UI with Tailwind CSS  
+✅ Beautiful scroll animations with AOS  
+✅ Firebase integration (Auth/Database ready)  
+✅ Toast notifications using React Hot Toast  
+✅ Icon library support with Lucide & React Icons  
+✅ Fully responsive Swiper Sliders  
+✅ DaisyUI components for rapid development  
+✅ Optimized for performance using Vite  
+
+---
+
+## 🛠️ Getting Started
+
+### Clone the Repo
 
 ```bash
-# Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-
-# Install Dependencies
-npm install
-
-# Run in Development Mode
-npm run dev
-
-# Build for Production
-npm run build
-
-# Preview Production Build Locally
-npm run preview
-```
-
----
-
-## 📁 Folder Structure
-
-```
-├── public/          // Static files
-├── src/             
-│   ├── assets/      // Images, icons, etc.
-│   ├── components/  // Reusable components
-│   ├── pages/       // Pages for routing
-│   ├── App.jsx      // Main App component
-│   └── main.jsx     // Application entry point
-├── package.json     
-├── tailwind.config.js  
-├── vite.config.js   
-└── README.md        
-```
-
----
-
-## 🖥️ Live Demo
-
-[https://law-firm-booking.netlify.app](https://law-firm-booking.netlify.app)
-
----
-
-## 📧 Contact
-
-For any queries or collaboration opportunities, feel free to reach out.
+git clone https://github.com/yourusername/subscription-box-app.git
+cd subscription-box-app
